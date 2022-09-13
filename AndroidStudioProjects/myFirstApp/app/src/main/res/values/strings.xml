@@ -10,8 +10,8 @@
     <string name="tvNome">tvNome</string>
     <string name="cadastrar">CADASTRAR</string>
     <string name="nome">Digite seu nome</string>
-    <string name="Ola">Olá, tudo bem IBMer?</string>
-    <string name="Welcome">Seja muito bem vindo! Welcomeee to...</string>
+    <string name="Ola">olá ibmer</string>
+    <string name="Welcome">Tudo Bem? Seja muito bem vindo! Welcomeee to...</string>
     <string name="With">With</string>
     <string name="todo">TODO</string>
 </resources>

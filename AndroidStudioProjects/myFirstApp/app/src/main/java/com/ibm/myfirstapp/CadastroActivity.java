@@ -59,7 +59,7 @@ public class CadastroActivity extends AppCompatActivity {
                 }else{
                     //erro senhas divergentes
 
-                    alerta("senhas divergentes, por favor digite sua senha");
+                    alerta("Confirme sua senha");
                 }
 
             }
