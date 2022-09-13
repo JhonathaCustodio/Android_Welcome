@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/aclonica</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/alex_brush</item>
+        <item>@font/allura</item>
+        <item>@font/archivo_black</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/euphoria_script</item>
+    </array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">myFirstApp</string>
+    <string name="hello">hello world</string>
+    <string name="entrar">Entrar</string>
+    <string name="Email">Digite o seu e-mail</string>
+    <string name="senha">Digite a sua senha</string>
+    <string name="senhaConfirma">Confirme a sua senha</string>
+    <string name="my_email">my_email@my_email.com</string>
+    <string name="tvEmail">tvEmail</string>
+    <string name="tvNome">tvNome</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="Ola">Olá, tudo bem IBMer?</string>
+    <string name="Welcome">Seja muito bem vindo! Welcomeee to...</string>
+    <string name="With">With</string>
+    <string name="todo">TODO</string>
+</resources>
